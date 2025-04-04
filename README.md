@@ -1,2 +1,1 @@
-# ChatBot-Python
-ChatBot created using python.
+This is a simple command-line chatbot I built using Python and OpenAI's GPT-3.5-turbo model. The idea was to create a lightweight script that lets you have a quick conversation with the GPT model directly from the terminal.This project was mainly for learning purposes and as a starting point for integrating AI into other projects. I might eventually add things like chat history, a simple interface, or even hook it up to a messaging platform, but for now it’s a clean, minimal terminal-based GPT chatbot.
